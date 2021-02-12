@@ -1,0 +1,2 @@
+# Birinchi
+Birinchi kommit
